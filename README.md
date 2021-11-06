@@ -8,7 +8,7 @@ Description:Hypothesis that needs to be examined are (1) the survival rate is as
 
 Analyst: Mohammad Nur Akmad
 
-Folders: ├── src                     # Source files (your python code)
-         ├── data                    # Data related to the project (titanic.csv)
-         ├── result                  # Result of the project (e.g., plots, reports)
-         └── doc                     # Documentation files (additional documentations)
+Folders:                   # Source files (your python code)
+                           # Data related to the project (titanic.csv)
+                           # Result of the project (e.g., plots, reports)
+                           # Documentation files (additional documentations)
